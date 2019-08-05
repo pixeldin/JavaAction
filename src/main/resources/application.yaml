@@ -1,0 +1,15 @@
+hbase:
+  src: "cdh10,cdh11,cdh12"
+  srcTable: "roundmerge5c"
+  dist: "cdh10,cdh11,cdh12"
+  disTable: "roundmerge2c"
+
+# Protocols
+protocols:
+   - http
+   - https
+
+# Developers
+developers:
+    tom: tom@gmail.com
+    bob: bob@gmail.com

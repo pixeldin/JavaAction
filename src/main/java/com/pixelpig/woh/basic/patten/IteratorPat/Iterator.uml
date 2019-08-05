@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.pixelpig.woh.basic.patten.IteratorPat.Iterator</OriginalElement>
+  <nodes>
+    <node x="144.0" y="372.0">com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStation</node>
+    <node x="567.0" y="240.0">com.pixelpig.woh.basic.patten.IteratorPat.Iterator</node>
+    <node x="145.0" y="237.0">com.pixelpig.woh.basic.patten.IteratorPat.Aggregate</node>
+    <node x="450.0" y="403.0">com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStationIterator</node>
+    <node x="662.0" y="403.0">com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStationOddIterator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStation" target="com.pixelpig.woh.basic.patten.IteratorPat.Aggregate">
+      <point x="0.0" y="-73.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStationIterator" target="com.pixelpig.woh.basic.patten.IteratorPat.Iterator">
+      <point x="0.0" y="-61.5" />
+      <point x="546.0" y="378.0" />
+      <point x="609.0" y="378.0" />
+      <point x="-43.0" y="38.0" />
+    </edge>
+    <edge source="com.pixelpig.woh.basic.patten.IteratorPat.pix.BusStationOddIterator" target="com.pixelpig.woh.basic.patten.IteratorPat.Iterator">
+      <point x="0.0" y="-61.5" />
+      <point x="758.0" y="378.0" />
+      <point x="695.0" y="378.0" />
+      <point x="43.0" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="558.0" y="323.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
