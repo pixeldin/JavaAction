@@ -1,0 +1,6 @@
+#written by FileProperties
+#Thu Aug 08 23:52:19 GMT+08:00 2019
+day=8
+name=pixelpig
+year=2019
+month=8
