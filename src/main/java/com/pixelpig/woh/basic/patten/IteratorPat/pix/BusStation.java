@@ -32,9 +32,9 @@ public class BusStation implements Aggregate {
     //Changeable for this iterator implement
     public Iterator iterator() {
         //Implement A: Travel all
-        //return new BusStationIterator(this);
+        //return new IteratorOfBusStation(this);
 
         //Implement B: Only cass odd code bus
-        return new BusStationOddIterator(this);
+        return new OddIteratorOfBusStation(this);
     }
 }
