@@ -3,9 +3,7 @@ package com.pixelpig.woh.basic.patten.FactoryPat.idcard;
 import com.pixelpig.woh.basic.patten.FactoryPat.framework.Factory;
 import com.pixelpig.woh.basic.patten.FactoryPat.framework.Product;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 /**
  * Create by pixelpig
