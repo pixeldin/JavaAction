@@ -8,11 +8,11 @@ import com.pixelpig.woh.basic.patten.IteratorPat.Iterator;
  */
 
 //Implement calling of odd code bus
-public class BusStationOddIterator implements Iterator {
+public class OddIteratorOfBusStation implements Iterator {
     private BusStation busStation;
     private int index;
 
-    public BusStationOddIterator(BusStation busStation) {
+    public OddIteratorOfBusStation(BusStation busStation) {
         this.busStation = busStation;
         index = 0;
     }

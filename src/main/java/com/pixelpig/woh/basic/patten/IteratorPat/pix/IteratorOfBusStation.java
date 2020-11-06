@@ -8,11 +8,11 @@ import com.pixelpig.woh.basic.patten.IteratorPat.Iterator;
  */
 
 //Specific implement of iterator for bus
-public class BusStationIterator implements Iterator {
+public class IteratorOfBusStation implements Iterator {
     private BusStation busStation;
     private int index;
 
-    public BusStationIterator(BusStation busStation) {
+    public IteratorOfBusStation(BusStation busStation) {
         this.busStation = busStation;
         index = 0;
     }
